@@ -8,6 +8,7 @@ function addWordsToMadLib(){
     var word7 = document.querySelector("#word-7-input").value;
     var word8 = document.querySelector("#word-8-input").value;
     var word9 = document.querySelector("#word-9-input").value;
+    var word10 = document.querySelector("#word-10-input").value;
 
     document.querySelector("#word-1").textContent = word1;
     document.querySelector("#word-2").textContent = word2;
@@ -18,4 +19,5 @@ function addWordsToMadLib(){
     document.querySelector("#word-7").textContent = word7;
     document.querySelector("#word-8").textContent = word8;
     document.querySelector("#word-9").textContent = word9;
+    document.querySelector("#word-10").textContent = word10;
 }
