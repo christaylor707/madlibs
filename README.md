@@ -36,5 +36,5 @@ Dear School Nurse:
 [First name] [Last name] will not be attending school today. He/she has come down with a case of [illness] and has horrible [Plural names] and a/an [Adjective] fever. We have made an appointment with the [Adjective] Dr. [Silly word], who studied for many years in [Place] and has [Number] degrees in pediatrics. He will send you all the information you need. Thank you! 
 
 Sincerely,
-Mrs. Adjective.
+Mrs. [Adjective].
 ```
