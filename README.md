@@ -1,5 +1,6 @@
 ## Galvanize MadLibs
 
+
 This is an exercise that combines basic HTML, CSS, and JavaScript to make a simple web application.
 
 ## Instructions
